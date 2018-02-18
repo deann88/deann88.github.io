@@ -4,9 +4,9 @@ body {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 21px;
-    color: rgb(48, 48, 48);
-    border-top: 5px solid #27a822;
-    border-bottom: 5px solid #27A822;
+    color: #005073;	
+    border-top: 5px solid #005073;
+    border-bottom: 5px solid #005073;
 }
 
 .container {
@@ -23,7 +23,7 @@ a:visited {
 }
 
 a:hover, a:focus {
-    color: #27A822;
+    color: #005073;
 }
 
 p, address {
@@ -40,7 +40,7 @@ p, address {
 }
 
 header > h1, section > h1 {
-    color: #27A822;
+    color: #005073;
 }
 
 header > h1 {
@@ -89,7 +89,7 @@ article > header > span + span::before {
 }
 
 article > header > span {
-    color: #808080;
+    color: #005073;
     font-size: 100%;
 }
 
